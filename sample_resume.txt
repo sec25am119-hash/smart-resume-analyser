@@ -1,0 +1,15 @@
+Name: Kanish
+
+Education:
+B.Tech Artificial Intelligence and Machine Learning
+
+Skills:
+Python
+Git
+Communication
+
+Projects:
+Student Habit Tracker
+
+Achievements:
+Completed Python Basics
