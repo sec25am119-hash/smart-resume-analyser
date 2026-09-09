@@ -1,49 +1,41 @@
+
 # Smart Resume Analyzer
 
-## 📖 Project Overview
+## Project Overview
 
-Smart Resume Analyzer is a Python project that analyzes a user's resume and identifies technical skills. It also detects missing skills and calculates a simple resume score.
+Smart Resume Analyzer is a Python-based project that analyzes resume content and identifies relevant technical skills.
 
----
+The project compares the skills mentioned in a resume with a predefined skills database. It identifies skills found in the resume, highlights missing skills, calculates a resume score, and provides simple improvement suggestions.
 
-## ✨ Features
+## Features
 
-- Detects skills in the resume
-- Shows missing skills
-- Calculates resume score
-- Beginner-friendly Python project
+- Detects technical skills from resume text
+- Identifies missing skills
+- Calculates a resume skill score
+- Provides improvement suggestions
+- Simple and beginner-friendly Python implementation
 
----
-
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Lists
 - Loops
 - Functions
 - String Operations
+- File Handling
 
----
+## Project Files
 
-## 📂 Project Files
+- `resume-analyser.py` – Main Python program
+- `sample_resume.txt` – Sample resume used for testing
+- `skills.txt` – Skills database
+- `README.md` – Project documentation
 
-resume_analyzer.py → Main Python program
+## How to Run
 
-sample_resume.txt → Sample resume for testing
+1. Make sure Python is installed.
+2. Open the project folder in Command Prompt.
+3. Run:
 
-README.md → Project documentation
-
----
-
-## 🚀 Future Improvements
-
-- Read PDF resumes
-- ATS Resume Checker
-- AI-based Suggestions
-- Web Application using Streamlit
-
----
-
-## 👩‍💻 Author
-
-Kanish
+```bash
+python resume-analyser.py
