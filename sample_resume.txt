@@ -1,15 +1,70 @@
-Name: Kanish
+V. KANISHKKA
 
-Education:
-B.Tech Artificial Intelligence and Machine Learning
+Computer Science Engineering Student | Artificial Intelligence and Machine Learning
 
-Skills:
+Chennai, Tamil Nadu
+Email: kanishkka@example.com
+LinkedIn: linkedin.com/in/kanishkka
+GitHub: github.com/sec25am119-hash
+
+CAREER OBJECTIVE
+
+Motivated Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with a strong interest in Python, software development, problem solving, and emerging technologies. Seeking opportunities to apply technical knowledge through practical projects and continuous learning.
+
+EDUCATION
+
+B.E. Computer Science and Engineering
+Specialization: Artificial Intelligence and Machine Learning
+Sri Sairam Engineering College, Chennai
+2025 – Present
+
+TECHNICAL SKILLS
+
 Python
+C
+Java
+SQL
 Git
+GitHub
+Artificial Intelligence
+Machine Learning
+Data Structures
+Problem Solving
 Communication
 
-Projects:
-Student Habit Tracker
+PROJECTS
 
-Achievements:
-Completed Python Basics
+Smart Resume Analyzer
+Developed a Python-based application to analyze resume content, identify relevant technical skills, detect missing skills, and calculate a basic resume score.
+
+Student Habit Tracker
+Developed a simple Python-based application for tracking daily learning and coding activities.
+
+CERTIFICATIONS AND LEARNING
+
+IBM Technology and AI Learning Programs
+AWS Foundational Learning
+Microsoft Learn Technical Modules
+Coursera Technology and Programming Courses
+
+ACTIVITIES
+
+NSS Volunteer
+Participated in technical workshops, ideathons, college events, and student club activities.
+
+AREAS OF INTEREST
+
+Python Development
+Artificial Intelligence
+Machine Learning
+Software Development
+Data Structures and Algorithms
+
+STRENGTHS
+
+Problem Solving
+Quick Learning
+Teamwork
+Communication
+Creativity
+Adaptability
