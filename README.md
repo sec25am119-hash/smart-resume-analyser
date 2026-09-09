@@ -38,4 +38,4 @@ The project compares the skills mentioned in a resume with a predefined skills d
 3. Run:
 
 ```bash
-python resume-analyser.py
+python resume-analyser.py 
